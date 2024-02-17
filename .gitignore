@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+src/app/index.jsx
+src/app/logout.js
+src/app/moralis.js
+src/app/page.js
+src/app/nextauth.js
+src/app/page.js
+src/app/page.js
+src/app/page.js
