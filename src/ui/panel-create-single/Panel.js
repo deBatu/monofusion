@@ -1,6 +1,6 @@
 "use client";
 import NextImage from "next/image";
-
+import { useClient } from 'use-client'
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
